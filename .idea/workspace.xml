@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bc0ae484-e544-4a14-a239-fe978730e1a8" name="Changes" comment="Wikipedia Day Events" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="interlingwa" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="23lg6cSNk88C6XWf0zHUdrwkem1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bc0ae484-e544-4a14-a239-fe978730e1a8" name="Changes" comment="" />
+      <created>1642313913132</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1642313913132</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Dzień interlingwy">
+      <created>1642314089599</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1642314089599</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Opis dnia interlingwy">
+      <created>1642314180372</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1642314180372</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Fundamenty fenomenu interlingwy">
+      <created>1642314233526</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1642314233526</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Fundamenty fenomenu interlingwy">
+      <created>1642314430004</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1642314430004</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Wikipedia Day">
+      <created>1642314840914</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1642314840914</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Wikipedia Day Events">
+      <created>1642314893591</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1642314893591</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Dzień interlingwy" />
+    <MESSAGE value="Opis dnia interlingwy" />
+    <MESSAGE value="Fundamenty fenomenu interlingwy" />
+    <MESSAGE value="Wikipedia Day" />
+    <MESSAGE value="Wikipedia Day Events" />
+    <option name="LAST_COMMIT_MESSAGE" value="Wikipedia Day Events" />
+  </component>
+</project>
